@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rohit Ghali</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Rohit Ghali, a passionate Data Engineer 👨‍💻 working remotely since 2013 🚀</div>  
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitghali&label=Profile%20views&color=0e75b6&style=flat" alt="rohitghali" /> </p>
 

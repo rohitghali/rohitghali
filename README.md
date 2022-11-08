@@ -14,7 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitghali" alt="rohitghali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohitghali" target="blank"><img src="https://img.shields.io/twitter/follow/rohitghali?logo=twitter&style=for-the-badge" alt="rohitghali" /></a> </p>
 
 
 
@@ -59,7 +58,21 @@
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rohitghali" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/rohitghali" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/rohitghali" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
+<br/>  
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitghali&show_icons=true&locale=en" alt="rohitghali" /></p>

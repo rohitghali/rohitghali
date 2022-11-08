@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rohit Ghali, a passionate Data Engineer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="left">I'm Rohit Ghali, a passionate Data Engineer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitghali&label=Profile%20views&color=0e75b6&style=flat" alt="rohitghali" /> </p>

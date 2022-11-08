@@ -1,4 +1,4 @@
-Hi 👋 My name is Rohit Ghali
+Rohit Ghali
 ============================
 
 * ✉️  You can contact me at [rohitg1992@gmail.com](mailto:rohitg1992@gmail.com)

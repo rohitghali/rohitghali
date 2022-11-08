@@ -2,6 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitghali&label=Profile%20views&color=0e75b6&style=flat" alt="rohitghali" /> </p>
 
 ### <div align="left">I'm Rohit Ghali, a passionate Data Engineer 👨‍💻 working remotely since 2013 🚀</div>  
 - 🌱 I’m currently learning Azure and Databricks  
@@ -10,7 +11,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitghali&label=Profile%20views&color=0e75b6&style=flat" alt="rohitghali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitghali" alt="rohitghali" /></a> </p>
 
